@@ -1,0 +1,7 @@
+backend/node_modules
+backend/package-lock.json
+frontend/node_modules
+backend/yarn.lock
+backend/.env
+backend/.env.development
+backend/.env.env.sample
